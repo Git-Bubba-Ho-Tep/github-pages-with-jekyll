@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Title title title!  Hurry! Hurry! Hurry!
 
 You can use the [editor on GitHub](https://github.com/Git-Bubba-Ho-Tep/github-pages-with-jekyll/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
